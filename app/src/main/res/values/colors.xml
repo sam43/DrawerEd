@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+
+
+    <color name="colorBlack">#545454</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+
+    <color name="colorWhite1">#F7F7F7</color>
+
+    <!--  Actionbar colour     -->
+    <color name="coloraction">#4e95b6</color>
+
+    <!--  Text colour     -->
+    <color name="colortext">#eeeeee</color>
+
+    <!--  button colour     -->
+    <color name="color_button">#4e95b6</color>
+
+    <color name="color_layout">#f0f1f5</color>
+
+
+
+    <!--  menutopbar colour     -->
+    <color name="color_menutop">#39464f</color>
+
+
+    <color name="color_texmenutop">#989898</color>
+
+    <!--  menubutton colour     -->
+    <color name="color_menubutton">#2b3639</color>
+
+    <!--  spinnerpopup colour     -->
+    <color name="color_sppopup">#dad9df</color>
+
+    <!--  menufount colour     -->
+    <color name="color_menufont">#555555</color>
+
+
+    <!--  color_cartimg_background     -->
+    <color name="color_cartimg_back">#eeeeee</color>
+
+    <color name="listview_divider">#00000000</color>
+    <color name="listview_group_text_color_before">#555555</color>
+    <color name="listview_group_image_color_before">#d7d7d7</color>
+    <color name="listview_group_arrow_image_color_before">#555555</color>
+    <color name="listview_group_parent_color_before">#ffffff</color>
+
+    <!-- listview after expanded -->
+    <color name="listview_group_text_color_after">#000000</color>
+    <color name="listview_group_image_color_after">#412981</color>
+    <color name="listview_group_arrow_image_color_after">#0f3048</color>
+    <color name="listview_group_parent_color_after">#ebebeb</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="indigo500">#d9d8dd</color>
+    <color name="divider">#1f000000</color>
+    <color name="accent">#ff2d6f</color>
+
+    <!--  procart text      -->
+
+    <color name="pro_cart_textcolor">#b8b8b8</color>
+
+
+
+
+</resources>
